@@ -33,9 +33,9 @@ if ($user_id) {
     <meta data-intl-tel-input-cdn-path="intlTelInput/">
     <title>Ekoloji Adası</title>
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico?v=2">
-    <link rel="stylesheet" href="/nicepage.css" media="screen">
+    <link rel="stylesheet" href="/main.css" media="screen">
     <script class="u-script" type="text/javascript" src="/jquery-1.9.1.min.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="/nicepage.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="/main.js" defer=""></script>
   
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Inter:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     
