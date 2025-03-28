@@ -14,15 +14,13 @@ Let's finish the quizzes and share nature-related photo!
 ## Gallery
 ## Blogs
 ## Admin Panel
-`General Dashboard
-Manage Website
-Create Blogs
-Manage Forums
-Manage Users
-Manage User’s Uploads
-Manage Admins & Authors
-`
-
+- General Dashboard
+- Manage Website
+- Create Blogs
+- Manage Forums
+- Manage Users
+- Manage User’s Uploads
+- Manage Admins & Authors
 
 Check out all my projects [menapps](https://www.instagram.com/menapps).
 
